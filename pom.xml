@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>lab4</artifactId>
+  <artifactId>Lab4-2022212012</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>lab4</name>
+  <name>Lab4-2022212012</name>
   <url>http://maven.apache.org</url>
 
   <properties>
